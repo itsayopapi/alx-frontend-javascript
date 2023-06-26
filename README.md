@@ -1,2 +1,2 @@
 # alx-frontend-javascript
-First  Fronted JavaScript Project Repo🤓👨‍💻
+First  Frontend JavaScript Project Repo🤓👨‍💻
